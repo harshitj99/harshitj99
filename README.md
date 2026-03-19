@@ -30,7 +30,7 @@ I am a seasoned Software Engineer with **~4 years of experience**, currently wor
 
 ### 📫 Let's Connect
 * 💼 [LinkedIn](https://www.linkedin.com/in/harshit-jain-007)
-* 🌐 [Portfolio]([https://](https://harshitj99.github.io/))
+* 🌐 [Portfolio](https://harshitj99.github.io/)
 
 ---
 
